@@ -1,7 +1,11 @@
 .Cell {
   height: 100px;
   width: 100px;
+  border: 2px solid rgba(0, 0, 0, 0.349);
   background-color: darkgray;
+}
+.Cell:hover {
+  cursor: pointer;
 }
 
 .Cell-lit {
