@@ -1,13 +1,11 @@
 .Cell {
-  height: 100px;
-  width: 100px;
-  border: 2px solid rgba(0, 0, 0, 0.349);
-  background-color: darkgray;
+  border: 3px solid rgba(0, 0, 0, 0.856);
+  background-color: rgb(252, 106, 106);
 }
 .Cell:hover {
   cursor: pointer;
 }
 
 .Cell-lit {
-  background-color: white;
+  background-color: rgba(91, 255, 165, 0.473);
 }
